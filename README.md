@@ -3,9 +3,7 @@
 
 🧠 I enjoy solving problems across the stack and have experience in full-stack web development, game programming, and data-driven systems.
 
-💡 I’ve built dynamic web apps using React and Flask, developed a turn-based RPG in C++ with OpenGL, and implemented SQL databases for real-world data exploration.
-
-🔍 Actively seeking opportunities in full-stack, backend, or game development roles.
+🔍 Actively seeking opportunities in **full-stack**, **backend**, **frontend**, or **game development** roles.
 
 # 🔗 Connect With Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/jaiveertiwana/)  
