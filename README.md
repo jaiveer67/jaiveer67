@@ -13,7 +13,7 @@
 
 # 🧰 Tech Toolbox  
 **Languages:**  
-🟨 JavaScript • 🐍 Python • 💠 C++ • ☕ Java • 🧮 SQL  
+🟨 JavaScript • 🐍 Python • 💠 C++ • ☕ Java • 🧮 SQL • 🐘 PHP 
 
 **Frontend:**  
 ⚛️ React • 🌐 HTML5 • 🎨 CSS  
@@ -22,4 +22,4 @@
 🔥 Flask • 🟦 Node.js • 🚂 Express  
 
 **Databases:**  
-🗃️ SQLit
+🗃️ SQLite • 🛢️ MySQL 
